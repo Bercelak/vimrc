@@ -10,7 +10,6 @@ call vundle#begin()
 
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
-
 " YATS - Yet Another TypeScript Syntax
 Plugin 'HerringtonDarkholme/yats.vim'
 " HTML5 + inline SVG omnicomplete function
