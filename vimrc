@@ -81,7 +81,7 @@ let g:oceanic_next_terminal_italic = 1
 set t_Co=256
 colorscheme OceanicNext
 
-let g:indent_guides_enable_on_vim_startup = 1
+" let g:indent_guides_enable_on_vim_startup = 1
 let g:indent_guides_guide_size = 1
 
 set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
