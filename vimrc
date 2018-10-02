@@ -1,7 +1,6 @@
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
-" let g:vundle_default_git_proto = 'git'
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
@@ -16,7 +15,7 @@ Plugin 'HerringtonDarkholme/yats.vim'
 Plugin 'othree/html5.vim'
 " YAJS - Yet Another JavaScript Syntax
 Plugin 'othree/yajs.vim'
-" Oceanic next from Sublime Text syntax highliting
+" Oceanic next from Sublime Text syntax highlighting
 Plugin 'mhartington/oceanic-next'
 " Indent guides for gVim and somewhat for Vim
 Plugin 'nathanaelkane/vim-indent-guides'
