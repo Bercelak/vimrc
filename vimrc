@@ -70,7 +70,7 @@ set expandtab
 set number
 set wildmenu
 set regexpengine=1
-set guifont=Anonymous\ Pro\ 12
+set guifont=Anonymous\ Pro\ 11
 syntax on
 
 let g:oceanic_next_terminal_bold = 1
